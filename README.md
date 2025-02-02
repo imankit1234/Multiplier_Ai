@@ -2,7 +2,7 @@
 Assesment
 ---
 
-# **Doctor Data Analysis in Databricks**  
+# **HCP Data Analysis in Databricks**  
 
 ## **Project Overview**  
 This project focuses on **cleaning, analyzing, and visualizing** a dataset containing doctor-related information. The data is processed in **Databricks** using SQL and Python, with insights derived through **various visualizations** such as heatmaps, bar charts, and pie charts.  
